@@ -1,0 +1,54 @@
+{
+  "Apple___Apple_scab": {
+    "symptoms": ["olive_green_spots", "velvety_texture", "yellowing_leaves"],
+    "treatment": ["Apply fungicide (mancozeb or captan)", "Rake and destroy fallen leaves", "Prune to improve air circulation"]
+  },
+  "Apple___healthy": {
+    "symptoms": ["vibrant_green_leaves", "no_visible_spots"],
+    "treatment": ["Continue regular pruning", "Maintain standard pest control"]
+  },
+  "Corn_(maize)___Common_rust_": {
+    "symptoms": ["oval_pustules_on_leaves", "rust_colored_spores", "yellowing_leaves"],
+    "treatment": ["Apply fungicide early in the season", "Plant rust-resistant corn hybrids", "Clear debris after harvest"]
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "symptoms": ["cigar_shaped_lesions", "gray_green_spots", "blighted_leaves"],
+    "treatment": ["Apply foliar fungicides", "Rotate crops", "Plow under crop debris"]
+  },
+  "Grape___Black_rot": {
+    "symptoms": ["brown_circular_lesions", "black_fruiting_bodies", "shriveled_fruit"],
+    "treatment": ["Apply appropriate fungicides (myclobutanil)", "Remove mummified fruit", "Ensure good canopy management"]
+  },
+  "Peach___Bacterial_spot": {
+    "symptoms": ["water_soaked_spots", "shot_hole_appearance", "fruit_lesions"],
+    "treatment": ["Apply copper-based bactericides", "Plant resistant varieties", "Maintain optimal tree nutrition"]
+  },
+  "Potato___Early_blight": {
+    "symptoms": ["dark_brown_spots", "target_board_pattern", "yellowing_tissue"],
+    "treatment": ["Apply protectant fungicides", "Ensure adequate nitrogen", "Rotate with non-solanaceous crops"]
+  },
+  "Potato___Late_blight": {
+    "symptoms": ["water_soaked_lesions", "white_fungal_growth_under_leaf", "rapid_browning"],
+    "treatment": ["Apply systemic fungicides immediately", "Destroy infected plants", "Avoid overhead irrigation"]
+  },
+  "Potato___healthy": {
+    "symptoms": ["solid_green_color", "smooth_leaf_surface"],
+    "treatment": ["Maintain current watering schedule", "Monitor for pests"]
+  },
+  "Tomato___Early_blight": {
+    "symptoms": ["yellow_halos", "dark_concentric_rings", "lower_leaves_affected"],
+    "treatment": ["Remove affected leaves", "Apply copper-based fungicide", "Ensure proper spacing"]
+  },
+  "Tomato___Late_blight": {
+    "symptoms": ["large_dark_brown_blotches", "white_mold_on_underside", "rapid_decay"],
+    "treatment": ["Apply chlorothalonil or copper fungicide", "Remove and destroy infected plants", "Keep foliage dry"]
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "symptoms": ["small_circular_spots", "dark_borders_with_gray_centers", "yellowing_older_leaves"],
+    "treatment": ["Apply fungicidal sprays", "Remove diseased leaves", "Avoid overhead watering"]
+  },
+  "Tomato___healthy": {
+    "symptoms": ["solid_green_color", "firm_texture"],
+    "treatment": ["Maintain current watering schedule", "Apply standard fertilizer"]
+  }
+}
